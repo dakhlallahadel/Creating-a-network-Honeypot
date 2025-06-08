@@ -21,9 +21,6 @@ Install Ubuntu/Debian
 
 Update system:
 
-bash
-Copy
-Edit
 sudo apt update && sudo apt upgrade
 Install Git, Python, and dependencies
 
