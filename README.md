@@ -1,4 +1,5 @@
-How to Build a Network Honeypot (For Resume Use)
+How to Build a Network Honeypot 
+
 Goal: Create a basic honeypot that mimics a vulnerable service to log and analyze attack behavior. Showcase your skills in cybersecurity, logging, networking, and scripting.
 
  Step 1: Choose Your Honeypot Type
